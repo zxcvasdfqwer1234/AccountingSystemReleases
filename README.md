@@ -10,7 +10,7 @@ A web-based accounting system developed using Django and Python.
 ## ACCOUNTING FUNCTIONS
 Primarily for my personal use
 
-- Journalized Transactions `| Collections | Deposits |Cash Disbursements | Check Disbursements | Liquidation | General`
+- Journalized Transactions `| Collections | Deposits | Cash Disbursements | Check Disbursements | Liquidation | General`
 - Fund Accounting
 - Special Accounts
 - Ledgers `| General | Subsidiary | Tax`
