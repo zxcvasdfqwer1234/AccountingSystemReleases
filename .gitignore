@@ -1,0 +1,32 @@
+
+# ==============================
+# Entire folders
+# ==============================
+/build/
+/releases/
+
+# ==============================
+# Environment / Local configurations
+# ==============================
+.env
+.env.*
+!.env.example
+launcher.config
+
+# ==============================
+# Logs and temporary files
+# ==============================
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+.version
+.DS_Store
+Thumbs.db
+
+# ==============================
+# IDE / Editor configurations
+# ==============================
+.vscode/
+.idea/

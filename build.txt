@@ -1,0 +1,2 @@
+Fix on showing journal information in transaction entries.
+Modified update.bat and removed update.ps1
