@@ -7,7 +7,7 @@ What's not working will not work.
 ## Accounting System
 A web-based accounting system developed using Django and Python.
 
-## ACCOUNTING FUNCTIONS
+## Functions
 Primarily for my personal use
 
 - Journalized Transactions `| Collections | Deposits | Cash Disbursements | Check Disbursements | Liquidation | General`
