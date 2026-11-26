@@ -139,7 +139,6 @@ def github_request(url, method="GET", data=None, content_type="application/json"
             f"GitHub API Error ({error.code}): {details}"
         )
 
-
 def create_github_release(zip_path, version, extra_assets):
     print("\nCreating GitHub release...")
 
@@ -378,7 +377,7 @@ def main():
         zipfile.ZIP_DEFLATED
     ) as archive:
         for file in STAGE.rglob("*"):
-            if file.is_file():
+            if file.is_file() and file.name.lower() != "update.bat":
                 archive.write(file, file.relative_to(STAGE))
 
 
