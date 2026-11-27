@@ -26,3 +26,6 @@ The following functions are still not working:
 - [MySQL Server](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 - [Python 3.13.5](https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe)
 - Required Python packages in `requirements.txt` (Find requirements.txt inside the released files)
+
+## Source
+The latest released zip is already the source
